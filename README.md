@@ -11,12 +11,12 @@ A responsive landing page and registration form for KDAG's flagship **"Beginner'
 ## Project Structure
 
 \```
-KDAG-WEB-26IM10036-Ankit/
-├── index.html      # Landing page — hero section + feature highlights
-├── register.html   # Registration form page
-├── style.css        # Shared dark theme + glassmorphism styling
-├── script.js         # Client-side form validation logic
-└── README.md
+KDAG-WEB-26IM10036-Ankit\
+├── index.html       # Landing page — hero section + feature highlights \
+├── register.html   # Registration form page\
+├── style.css        # Shared dark theme + glassmorphism styling\
+├── script.js         # Client-side form validation logic\
+└── README.md\
 \```
 
 ## Features
