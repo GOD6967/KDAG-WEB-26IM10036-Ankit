@@ -13,7 +13,7 @@ A responsive landing page and registration form for KDAG's flagship **"Beginner'
 \```
 KDAG-WEB-26IM10036-Ankit\
 ├── assests \
-&emsp ├── logo.png \
+......├── logo.png \
 ├── index.html       # Landing page — hero section + feature highlights \
 ├── register.html   # Registration form page\
 ├── style.css        # Shared dark theme + glassmorphism styling\
